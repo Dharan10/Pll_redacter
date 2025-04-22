@@ -1,4 +1,4 @@
-c# Auto PII Redactor
+# Auto PII Redactor
 
 An advanced application for detecting and redacting Personally Identifiable Information (PII) from various file formats including text, images, PDFs, and DOCX files.
 
